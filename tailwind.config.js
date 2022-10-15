@@ -14,7 +14,6 @@ module.exports = {
       },
       backgroundImage: theme => ({
         'hero-pattern': "url('./assets/hiphop.gif')",
-        'logo-pattern': "url('./assets/sphere.gif')",
         })
     },
     
