@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "asgard";
+    src: url("./assets/Asgard.otf");
+}
+@font-face {
+    font-family: "rubinski";
+    src: url("./assets/Rubinski.otf");
+}
+@font-face {
+    font-family: "fulgent";
+    src: url("./assets/fulgent.otf");
+}
+@font-face {
+    font-family: "blackbird";
+    src: url("./assets/Projekt Blackbird v2.otf");
+}
+
+
+body {
+  background-color: #000300;
+}
